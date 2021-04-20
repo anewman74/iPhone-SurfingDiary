@@ -1,0 +1,195 @@
+TSurfing Journal
+v7
+r0
+t323471993.681100
+cCheck dependencies
+cProcessInfoPlistFile "/Users/andrew/Documents/Surfing Journal/build/Debug-iphonesimulator/Surfing Journal.app/Info.plist" Surfing_Journal-Info.plist
+cCompileXIB "/Users/andrew/Documents/Surfing Journal/MainWindow.xib"
+cProcessPCH /var/folders/D+/D+RF4NkiEL8D6TmCllgolU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Surfing_Journal_Prefix-ggsfidjywfuaotfkiqzuirspebcg/Surfing_Journal_Prefix.pch.gch Surfing_Journal_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Surfing Journal.build/Debug-iphonesimulator/Surfing Journal.build/Objects-normal/i386/main.o" "/Users/andrew/Documents/Surfing Journal/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Surfing Journal.build/Debug-iphonesimulator/Surfing Journal.build/Objects-normal/i386/Surfing_JournalAppDelegate.o" "/Users/andrew/Documents/Surfing Journal/Classes/Surfing_JournalAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Users/andrew/Documents/Surfing Journal/Classes/Surfing_JournalAppDelegate.h
+c000000004D9792F700000000000001C0
+t1301779191
+s448
+i<UIKit/UIKit.h>
+
+N/Users/andrew/Documents/Surfing Journal/Classes/Surfing_JournalAppDelegate.m
+c000000004D9792F70000000000000A42
+t1301779191
+s2626
+i"Surfing_JournalAppDelegate.h"
+
+N/Users/andrew/Documents/Surfing Journal/MainWindow.xib
+c000000004D9791B80000000000002130
+t1301778872
+s8496
+
+N/Users/andrew/Documents/Surfing Journal/Surfing_Journal_Prefix.pch
+c000000004D9791B800000000000000C7
+t1301778872
+s199
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/andrew/Documents/Surfing Journal/build/Debug-iphonesimulator/Surfing Journal.app
+t2
+s0
+
+N/Users/andrew/Documents/Surfing Journal/build/Debug-iphonesimulator/Surfing Journal.app.dSYM
+t2
+s0
+
+N/Users/andrew/Documents/Surfing Journal/build/Debug-iphonesimulator/Surfing Journal.app/Info.plist
+t1301779191
+s629
+
+N/Users/andrew/Documents/Surfing Journal/build/Debug-iphonesimulator/Surfing Journal.app/MainWindow.nib
+t1301779192
+s1539
+
+N/Users/andrew/Documents/Surfing Journal/build/Debug-iphonesimulator/Surfing Journal.app/PkgInfo
+t1301779191
+s8
+
+N/Users/andrew/Documents/Surfing Journal/build/Debug-iphonesimulator/Surfing Journal.app/Surfing Journal
+t2
+s0
+
+N/Users/andrew/Documents/Surfing Journal/build/Surfing Journal.build/Debug-iphonesimulator/Surfing Journal.build/Objects-normal/i386/Surfing Journal.LinkFileList
+c000000004D9792F7000000000000012C
+t1301779191
+s300
+
+N/Users/andrew/Documents/Surfing Journal/build/Surfing Journal.build/Debug-iphonesimulator/Surfing Journal.build/Objects-normal/i386/Surfing_JournalAppDelegate.o
+t2
+s0
+
+N/Users/andrew/Documents/Surfing Journal/build/Surfing Journal.build/Debug-iphonesimulator/Surfing Journal.build/Objects-normal/i386/main.o
+t1301779193
+s6304
+
+N/Users/andrew/Documents/Surfing Journal/main.m
+c000000004D9791B8000000000000016A
+t1301778872
+s362
+i<UIKit/UIKit.h>
+
+N/var/folders/D+/D+RF4NkiEL8D6TmCllgolU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Surfing_Journal_Prefix-ggsfidjywfuaotfkiqzuirspebcg/Surfing_Journal_Prefix.pch.gch
+t1301779193
+s15211536
+
+NSurfing_Journal-Info.plist
+c000000004D9791B8000000000000038D
+t1301778872
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies323471991#323471991#0(0"0(0#1#0"31244212048494624#0"0#
+
+CCompileC "build/Surfing Journal.build/Debug-iphonesimulator/Surfing Journal.build/Objects-normal/i386/Surfing_JournalAppDelegate.o" "/Users/andrew/Documents/Surfing Journal/Classes/Surfing_JournalAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s323471993.531756
+e323471993.679541
+r0
+xCompileC
+xbuild/Surfing Journal.build/Debug-iphonesimulator/Surfing Journal.build/Objects-normal/i386/Surfing_JournalAppDelegate.o
+x/Users/andrew/Documents/Surfing Journal/Classes/Surfing_JournalAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/andrew/Documents/Surfing Journal/Classes/Surfing_JournalAppDelegate.m:9:
+o/Users/andrew/Documents/Surfing Journal/Classes/Surfing_JournalAppDelegate.h:18: error: expected specifier-qualifier-list before '*' token
+o/Users/andrew/Documents/Surfing Journal/Classes/Surfing_JournalAppDelegate.m:14: error: no declaration of property 'rootController' found in the interface
+o/Users/andrew/Documents/Surfing Journal/Classes/Surfing_JournalAppDelegate.m: In function '-[Surfing_JournalAppDelegate application:didFinishLaunchingWithOptions:]':
+o/Users/andrew/Documents/Surfing Journal/Classes/Surfing_JournalAppDelegate.m:24: error: 'rootController' undeclared (first use in this function)
+o/Users/andrew/Documents/Surfing Journal/Classes/Surfing_JournalAppDelegate.m:24: error: (Each undeclared identifier is reported only once
+o/Users/andrew/Documents/Surfing Journal/Classes/Surfing_JournalAppDelegate.m:24: error: for each function it appears in.)
+o/Users/andrew/Documents/Surfing Journal/Classes/Surfing_JournalAppDelegate.m: In function '-[Surfing_JournalAppDelegate dealloc]':
+o/Users/andrew/Documents/Surfing Journal/Classes/Surfing_JournalAppDelegate.m:80: error: 'rootController' undeclared (first use in this function)
+lSLF07#2@84"Compile /Users/andrew/Documents/Surfing Journal/Classes/Surfing_JournalAppDelegate.m323471993#323471993#0(1243"In file included from /Users/andrew/Documents/Surfing Journal/Classes/Surfing_JournalAppDelegate.m:9:/Users/andrew/Documents/Surfing Journal/Classes/Surfing_JournalAppDelegate.h:18: error: expected specifier-qualifier-list before '*' token/Users/andrew/Documents/Surfing Journal/Classes/Surfing_JournalAppDelegate.m:14: error: no declaration of property 'rootController' found in the interface/Users/andrew/Documents/Surfing Journal/Classes/Surfing_JournalAppDelegate.m: In function '-[Surfing_JournalAppDelegate application:didFinishLaunchingWithOptions:]':/Users/andrew/Documents/Surfing Journal/Classes/Surfing_JournalAppDelegate.m:24: error: 'rootController' undeclared (first use in this function)/Users/andrew/Documents/Surfing Journal/Classes/Surfing_JournalAppDelegate.m:24: error: (Each undeclared identifier is reported only once/Users/andrew/Documents/Surfing Journal/Classes/Surfing_JournalAppDelegate.m:24: error: for each function it appears in.)/Users/andrew/Documents/Surfing Journal/Classes/Surfing_JournalAppDelegate.m: In function '-[Surfing_JournalAppDelegate dealloc]':/Users/andrew/Documents/Surfing Journal/Classes/Surfing_JournalAppDelegate.m:80: error: 'rootController' undeclared (first use in this function)4(4@50"Expected specifier-qualifier-list before '*' token323471993#102#139#2(7@98"In file included from /Users/andrew/Documents/Surfing Journal/Classes/Surfing_JournalAppDelegate.m323471993#18446744073709551615#0#0(6@76"/Users/andrew/Documents/Surfing Journal/Classes/Surfing_JournalAppDelegate.m323471991#9#0#9#0#0"0(13@130"Expected specifier-qualifier-list before '*' token in /Users/andrew/Documents/Surfing Journal/Classes/Surfing_JournalAppDelegate.h323471993#18446744073709551615#0#0(6@76"/Users/andrew/Documents/Surfing Journal/Classes/Surfing_JournalAppDelegate.h323471991#18#0#18#0#0"0(6@76"/Users/andrew/Documents/Surfing Journal/Classes/Surfing_JournalAppDelegate.h323471991#18#0#18#0#19"expected * before *0(4@66"No declaration of property 'rootController' found in the interface323471993#241#155#0(6@76"/Users/andrew/Documents/Surfing Journal/Classes/Surfing_JournalAppDelegate.m323471991#14#0#14#0#0"0(4@56"'rootController' undeclared (first use in this function)323471993#562#145#0(6@76"/Users/andrew/Documents/Surfing Journal/Classes/Surfing_JournalAppDelegate.m323471991#24#0#24#0#43"'*' undeclared (first use in this function)0(4@56"'rootController' undeclared (first use in this function)323471993#1098#145#0(6@76"/Users/andrew/Documents/Surfing Journal/Classes/Surfing_JournalAppDelegate.m323471991#80#0#80#0#43"'*' undeclared (first use in this function)0(0#0#76"/Users/andrew/Documents/Surfing Journal/Classes/Surfing_JournalAppDelegate.m8619530944#2159"    cd "/Users/andrew/Documents/Surfing Journal"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/andrew/Documents/Surfing Journal/build/Surfing Journal.build/Debug-iphonesimulator/Surfing Journal.build/Surfing Journal-generated-files.hmap" "-I/Users/andrew/Documents/Surfing Journal/build/Surfing Journal.build/Debug-iphonesimulator/Surfing Journal.build/Surfing Journal-own-target-headers.hmap" "-I/Users/andrew/Documents/Surfing Journal/build/Surfing Journal.build/Debug-iphonesimulator/Surfing Journal.build/Surfing Journal-all-target-headers.hmap" -iquote "/Users/andrew/Documents/Surfing Journal/build/Surfing Journal.build/Debug-iphonesimulator/Surfing Journal.build/Surfing Journal-project-headers.hmap" "-F/Users/andrew/Documents/Surfing Journal/build/Debug-iphonesimulator" "-I/Users/andrew/Documents/Surfing Journal/build/Debug-iphonesimulator/include" "-I/Users/andrew/Documents/Surfing Journal/build/Surfing Journal.build/Debug-iphonesimulator/Surfing Journal.build/DerivedSources/i386" "-I/Users/andrew/Documents/Surfing Journal/build/Surfing Journal.build/Debug-iphonesimulator/Surfing Journal.build/DerivedSources" -include /var/folders/D+/D+RF4NkiEL8D6TmCllgolU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Surfing_Journal_Prefix-ggsfidjywfuaotfkiqzuirspebcg/Surfing_Journal_Prefix.pch -c "/Users/andrew/Documents/Surfing Journal/Classes/Surfing_JournalAppDelegate.m" -o "/Users/andrew/Documents/Surfing Journal/build/Surfing Journal.build/Debug-iphonesimulator/Surfing Journal.build/Objects-normal/i386/Surfing_JournalAppDelegate.o"1#
+
+CCompileC "build/Surfing Journal.build/Debug-iphonesimulator/Surfing Journal.build/Objects-normal/i386/main.o" "/Users/andrew/Documents/Surfing Journal/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s323471993.530231
+e323471993.681013
+r1
+xCompileC
+xbuild/Surfing Journal.build/Debug-iphonesimulator/Surfing Journal.build/Objects-normal/i386/main.o
+x/Users/andrew/Documents/Surfing Journal/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/andrew/Documents/Surfing Journal/main.m323471993#323471993#0(0"0(0#0#46"/Users/andrew/Documents/Surfing Journal/main.m8617646656#2107"    cd "/Users/andrew/Documents/Surfing Journal"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/andrew/Documents/Surfing Journal/build/Surfing Journal.build/Debug-iphonesimulator/Surfing Journal.build/Surfing Journal-generated-files.hmap" "-I/Users/andrew/Documents/Surfing Journal/build/Surfing Journal.build/Debug-iphonesimulator/Surfing Journal.build/Surfing Journal-own-target-headers.hmap" "-I/Users/andrew/Documents/Surfing Journal/build/Surfing Journal.build/Debug-iphonesimulator/Surfing Journal.build/Surfing Journal-all-target-headers.hmap" -iquote "/Users/andrew/Documents/Surfing Journal/build/Surfing Journal.build/Debug-iphonesimulator/Surfing Journal.build/Surfing Journal-project-headers.hmap" "-F/Users/andrew/Documents/Surfing Journal/build/Debug-iphonesimulator" "-I/Users/andrew/Documents/Surfing Journal/build/Debug-iphonesimulator/include" "-I/Users/andrew/Documents/Surfing Journal/build/Surfing Journal.build/Debug-iphonesimulator/Surfing Journal.build/DerivedSources/i386" "-I/Users/andrew/Documents/Surfing Journal/build/Surfing Journal.build/Debug-iphonesimulator/Surfing Journal.build/DerivedSources" -include /var/folders/D+/D+RF4NkiEL8D6TmCllgolU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Surfing_Journal_Prefix-ggsfidjywfuaotfkiqzuirspebcg/Surfing_Journal_Prefix.pch -c "/Users/andrew/Documents/Surfing Journal/main.m" -o "/Users/andrew/Documents/Surfing Journal/build/Surfing Journal.build/Debug-iphonesimulator/Surfing Journal.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/andrew/Documents/Surfing Journal/MainWindow.xib"
+s323471991.691464
+e323471992.138190
+r1
+xCompileXIB
+x/Users/andrew/Documents/Surfing Journal/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib323471991#323471992#0(0"0(0#0#54"/Users/andrew/Documents/Surfing Journal/MainWindow.xib8616100352#587"    cd "/Users/andrew/Documents/Surfing Journal"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/andrew/Documents/Surfing Journal/build/Debug-iphonesimulator/Surfing Journal.app/MainWindow.nib" "/Users/andrew/Documents/Surfing Journal/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CGenerateDSYMFile "/Users/andrew/Documents/Surfing Journal/build/Debug-iphonesimulator/Surfing Journal.app.dSYM" "/Users/andrew/Documents/Surfing Journal/build/Debug-iphonesimulator/Surfing Journal.app/Surfing Journal"
+r0
+
+CLd "/Users/andrew/Documents/Surfing Journal/build/Debug-iphonesimulator/Surfing Journal.app/Surfing Journal" normal i386
+r0
+
+CProcessInfoPlistFile "/Users/andrew/Documents/Surfing Journal/build/Debug-iphonesimulator/Surfing Journal.app/Info.plist" Surfing_Journal-Info.plist
+s323471991.649470
+e323471991.691361
+r1
+xProcessInfoPlistFile
+x/Users/andrew/Documents/Surfing Journal/build/Debug-iphonesimulator/Surfing Journal.app/Info.plist
+xSurfing_Journal-Info.plist
+lSLF07#2@34"Process Surfing_Journal-Info.plist323471991#323471991#0(0"0(0#0#66"/Users/andrew/Documents/Surfing Journal/Surfing_Journal-Info.plist7090148158703691776#512"    cd "/Users/andrew/Documents/Surfing Journal"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Surfing_Journal-Info.plist -genpkginfo "/Users/andrew/Documents/Surfing Journal/build/Debug-iphonesimulator/Surfing Journal.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/andrew/Documents/Surfing Journal/build/Debug-iphonesimulator/Surfing Journal.app/Info.plist"0#
+
+CProcessPCH /var/folders/D+/D+RF4NkiEL8D6TmCllgolU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Surfing_Journal_Prefix-ggsfidjywfuaotfkiqzuirspebcg/Surfing_Journal_Prefix.pch.gch Surfing_Journal_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s323471992.138389
+e323471993.529991
+r1
+xProcessPCH
+x/var/folders/D+/D+RF4NkiEL8D6TmCllgolU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Surfing_Journal_Prefix-ggsfidjywfuaotfkiqzuirspebcg/Surfing_Journal_Prefix.pch.gch
+xSurfing_Journal_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile Surfing_Journal_Prefix.pch323471992#323471993#0(0"0(0#0#66"/Users/andrew/Documents/Surfing Journal/Surfing_Journal_Prefix.pch8019326984325261312#1988"    cd "/Users/andrew/Documents/Surfing Journal"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/andrew/Documents/Surfing Journal/build/Surfing Journal.build/Debug-iphonesimulator/Surfing Journal.build/Surfing Journal-generated-files.hmap" "-I/Users/andrew/Documents/Surfing Journal/build/Surfing Journal.build/Debug-iphonesimulator/Surfing Journal.build/Surfing Journal-own-target-headers.hmap" "-I/Users/andrew/Documents/Surfing Journal/build/Surfing Journal.build/Debug-iphonesimulator/Surfing Journal.build/Surfing Journal-all-target-headers.hmap" -iquote "/Users/andrew/Documents/Surfing Journal/build/Surfing Journal.build/Debug-iphonesimulator/Surfing Journal.build/Surfing Journal-project-headers.hmap" "-F/Users/andrew/Documents/Surfing Journal/build/Debug-iphonesimulator" "-I/Users/andrew/Documents/Surfing Journal/build/Debug-iphonesimulator/include" "-I/Users/andrew/Documents/Surfing Journal/build/Surfing Journal.build/Debug-iphonesimulator/Surfing Journal.build/DerivedSources/i386" "-I/Users/andrew/Documents/Surfing Journal/build/Surfing Journal.build/Debug-iphonesimulator/Surfing Journal.build/DerivedSources" -c "/Users/andrew/Documents/Surfing Journal/Surfing_Journal_Prefix.pch" -o /var/folders/D+/D+RF4NkiEL8D6TmCllgolU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Surfing_Journal_Prefix-ggsfidjywfuaotfkiqzuirspebcg/Surfing_Journal_Prefix.pch.gch0#
+
+CTouch "/Users/andrew/Documents/Surfing Journal/build/Debug-iphonesimulator/Surfing Journal.app"
+r0
+

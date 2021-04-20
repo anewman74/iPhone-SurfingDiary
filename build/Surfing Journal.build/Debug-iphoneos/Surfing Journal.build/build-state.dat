@@ -1,0 +1,1147 @@
+TSurfing Journal
+v7
+r0
+t325279485.655300
+cCheck dependencies
+cCpResource "build/Debug-iphoneos/Surfing Journal.app/ResourceRules.plist" /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+cProcessInfoPlistFile "/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app/Info.plist" Surfing_Journal-Info.plist
+cCompileXIB /Users/andrew/Documents/SurfingLog/MainWindow.xib
+cCopyPNGFile "/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app/question.png" Images/question.png
+cCopyPNGFile "/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app/smiling.png" Images/smiling.png
+cCompileXIB /Users/andrew/Documents/SurfingLog/AboutView.xib
+cCompileXIB /Users/andrew/Documents/SurfingLog/FrontView.xib
+cCompileXIB /Users/andrew/Documents/SurfingLog/SelectionView.xib
+cCompileXIB /Users/andrew/Documents/SurfingLog/AddJournalView.xib
+cCompileXIB /Users/andrew/Documents/SurfingLog/AllJournalsView.xib
+cCompileXIB /Users/andrew/Documents/SurfingLog/DetailsView.xib
+cCpResource "build/Debug-iphoneos/Surfing Journal.app/surf1.sqlite3" surf1.sqlite3
+cCompileXIB /Users/andrew/Documents/SurfingLog/SelectedLogView.xib
+cCompileXIB /Users/andrew/Documents/SurfingLog/SpecificSearchView.xib
+cCompileXIB /Users/andrew/Documents/SurfingLog/ResultsView.xib
+cProcessPCH /var/folders/D+/D+RF4NkiEL8D6TmCllgolU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Surfing_Journal_Prefix-ctdmqrwipviglodfrddtmdvlgrus/Surfing_Journal_Prefix.pch.gch Surfing_Journal_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/D+/D+RF4NkiEL8D6TmCllgolU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Surfing_Journal_Prefix-dwiahtwlwbsssrfharulolwvfioc/Surfing_Journal_Prefix.pch.gch Surfing_Journal_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/main.o" /Users/andrew/Documents/SurfingLog/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/Surfing_JournalAppDelegate.o" /Users/andrew/Documents/SurfingLog/Classes/Surfing_JournalAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/AboutViewController.o" /Users/andrew/Documents/SurfingLog/Classes/AboutViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/SurfingNavController.o" /Users/andrew/Documents/SurfingLog/Classes/SurfingNavController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/FrontViewController.o" /Users/andrew/Documents/SurfingLog/Classes/FrontViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/SelectionViewController.o" /Users/andrew/Documents/SurfingLog/Classes/SelectionViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/AddJournalViewController.o" /Users/andrew/Documents/SurfingLog/Classes/AddJournalViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/AllJournalsViewController.o" /Users/andrew/Documents/SurfingLog/Classes/AllJournalsViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/DetailsViewController.o" /Users/andrew/Documents/SurfingLog/Classes/DetailsViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/Singleton.o" /Users/andrew/Documents/SurfingLog/Classes/Singleton.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/SelectedLogViewController.o" /Users/andrew/Documents/SurfingLog/Classes/SelectedLogViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/SpecificSearchViewController.o" /Users/andrew/Documents/SurfingLog/Classes/SpecificSearchViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/ResultsViewController.o" /Users/andrew/Documents/SurfingLog/Classes/ResultsViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/Surfing Journal" normal armv6
+cCompileC "build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/main.o" /Users/andrew/Documents/SurfingLog/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/Surfing_JournalAppDelegate.o" /Users/andrew/Documents/SurfingLog/Classes/Surfing_JournalAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/AboutViewController.o" /Users/andrew/Documents/SurfingLog/Classes/AboutViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/SurfingNavController.o" /Users/andrew/Documents/SurfingLog/Classes/SurfingNavController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/FrontViewController.o" /Users/andrew/Documents/SurfingLog/Classes/FrontViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/SelectionViewController.o" /Users/andrew/Documents/SurfingLog/Classes/SelectionViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/AddJournalViewController.o" /Users/andrew/Documents/SurfingLog/Classes/AddJournalViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/AllJournalsViewController.o" /Users/andrew/Documents/SurfingLog/Classes/AllJournalsViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/DetailsViewController.o" /Users/andrew/Documents/SurfingLog/Classes/DetailsViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/Singleton.o" /Users/andrew/Documents/SurfingLog/Classes/Singleton.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/SelectedLogViewController.o" /Users/andrew/Documents/SurfingLog/Classes/SelectedLogViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/SpecificSearchViewController.o" /Users/andrew/Documents/SurfingLog/Classes/SpecificSearchViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/ResultsViewController.o" /Users/andrew/Documents/SurfingLog/Classes/ResultsViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/Surfing Journal" normal armv7
+cCreateUniversalBinary "/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app/Surfing Journal" normal "armv6 armv7"
+cGenerateDSYMFile "/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app.dSYM" "/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app/Surfing Journal"
+cProcessProductPackaging "/Users/andrew/Library/MobileDevice/Provisioning Profiles/B6B45D8D-29DB-4917-A311-58FBE26A9CB4.mobileprovision" "/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app/embedded.mobileprovision"
+cTouch "/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app"
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal.xcent"
+cCodeSign "/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app"
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk
+c000000004C6DE9E30000000000000110
+t1282271715
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist
+c000000004C578FA900000000000001A7
+t1280806825
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+c000000004C578FA900000000000001E5
+t1280806825
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A51050000000000345F00
+t1280987397
+s3432192
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A52B100000000003E1EF0
+t1280987825
+s4071152
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A527F0000000000001466
+t1280987775
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C62427000000000000009CD
+t1281507952
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C62430F0000000002EBC2B0
+t1281508111
+s49005232
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/sqlite3.h
+c000000004C5A49F6000000000004252F
+t1280985590
+s271663
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/lib/libsqlite3.dylib
+c000000004C5A4A0500000000000B9DE0
+t1280985605
+s761312
+
+N/Users/andrew/Documents/SurfingLog/AboutView.xib
+c000000004D9796C70000000000003FE2
+t1301780167
+s16354
+
+N/Users/andrew/Documents/SurfingLog/AddJournalView.xib
+c000000004DB25B9E0000000000005EA1
+t1303534494
+s24225
+
+N/Users/andrew/Documents/SurfingLog/AllJournalsView.xib
+c000000004DADED16000000000000498B
+t1303244054
+s18827
+
+N/Users/andrew/Documents/SurfingLog/Classes/AboutViewController.h
+c000000004D97961C00000000000000EB
+t1301779996
+s235
+i<UIKit/UIKit.h>
+
+N/Users/andrew/Documents/SurfingLog/Classes/AboutViewController.m
+c000000004D97961C000000000000061E
+t1301779996
+s1566
+i"AboutViewController.h"
+
+N/Users/andrew/Documents/SurfingLog/Classes/AddJournalViewController.h
+c000000004DB300E00000000000000447
+t1303576800
+s1095
+i<UIKit/UIKit.h>
+i<sqlite3.h>
+
+N/Users/andrew/Documents/SurfingLog/Classes/AddJournalViewController.m
+c000000004DB3026F00000000000017A1
+t1303577199
+s6049
+i"AddJournalViewController.h"
+i"Surfing_JournalAppDelegate.h"
+i"DetailsViewController.h"
+i"Singleton.h"
+
+N/Users/andrew/Documents/SurfingLog/Classes/AllJournalsViewController.h
+c000000004DB300E0000000000000037D
+t1303576800
+s893
+i<UIKit/UIKit.h>
+i<sqlite3.h>
+
+N/Users/andrew/Documents/SurfingLog/Classes/AllJournalsViewController.m
+c000000004DB3053300000000000018C9
+t1303577907
+s6345
+i"AllJournalsViewController.h"
+i"Surfing_JournalAppDelegate.h"
+i"SelectedLogViewController.h"
+i"Singleton.h"
+
+N/Users/andrew/Documents/SurfingLog/Classes/DetailsViewController.h
+c000000004DB300E00000000000000445
+t1303576800
+s1093
+i<UIKit/UIKit.h>
+i<sqlite3.h>
+
+N/Users/andrew/Documents/SurfingLog/Classes/DetailsViewController.m
+c000000004DB3026F0000000000002673
+t1303577199
+s9843
+i"DetailsViewController.h"
+i"Surfing_JournalAppDelegate.h"
+i"Singleton.h"
+
+N/Users/andrew/Documents/SurfingLog/Classes/FrontViewController.h
+c000000004D97B07F00000000000001A4
+t1301786751
+s420
+i<UIKit/UIKit.h>
+
+N/Users/andrew/Documents/SurfingLog/Classes/FrontViewController.m
+c000000004D9805B6000000000000059C
+t1301808566
+s1436
+i"FrontViewController.h"
+i"Surfing_JournalAppDelegate.h"
+i"SelectionViewController.h"
+
+N/Users/andrew/Documents/SurfingLog/Classes/ResultsViewController.h
+c000000004DB10E8D000000000000025F
+t1303449229
+s607
+i<UIKit/UIKit.h>
+i<sqlite3.h>
+
+N/Users/andrew/Documents/SurfingLog/Classes/ResultsViewController.m
+c000000004DB22D490000000000001310
+t1303522633
+s4880
+i"ResultsViewController.h"
+i"Singleton.h"
+
+N/Users/andrew/Documents/SurfingLog/Classes/SelectedLogViewController.h
+c000000004DAD086A00000000000004EE
+t1303185514
+s1262
+i<UIKit/UIKit.h>
+i<sqlite3.h>
+
+N/Users/andrew/Documents/SurfingLog/Classes/SelectedLogViewController.m
+c000000004DB302020000000000002DD3
+t1303577090
+s11731
+i"SelectedLogViewController.h"
+i"Singleton.h"
+
+N/Users/andrew/Documents/SurfingLog/Classes/SelectionViewController.h
+c000000004DAB82EC000000000000033F
+t1303085804
+s831
+i<UIKit/UIKit.h>
+
+N/Users/andrew/Documents/SurfingLog/Classes/SelectionViewController.m
+c000000004DAB82EC0000000000000AFD
+t1303085804
+s2813
+i"SelectionViewController.h"
+i"Surfing_JournalAppDelegate.h"
+i"AddJournalViewController.h"
+i"AllJournalsViewController.h"
+i"SpecificSearchViewController.h"
+
+N/Users/andrew/Documents/SurfingLog/Classes/Singleton.h
+c000000004DB223B3000000000000035E
+t1303520179
+s862
+i<Foundation/Foundation.h>
+
+N/Users/andrew/Documents/SurfingLog/Classes/Singleton.m
+c000000004DB223B30000000000000524
+t1303520179
+s1316
+i"Singleton.h"
+
+N/Users/andrew/Documents/SurfingLog/Classes/SpecificSearchViewController.h
+c000000004DB2460C00000000000004FB
+t1303528972
+s1275
+i<UIKit/UIKit.h>
+i<sqlite3.h>
+
+N/Users/andrew/Documents/SurfingLog/Classes/SpecificSearchViewController.m
+c000000004DB3029100000000000025B6
+t1303577233
+s9654
+i"SpecificSearchViewController.h"
+i"Singleton.h"
+i"Surfing_JournalAppDelegate.h"
+i"ResultsViewController.h"
+
+N/Users/andrew/Documents/SurfingLog/Classes/SurfingNavController.h
+c000000004D979E9F00000000000000F3
+t1301782175
+s243
+i<UIKit/UIKit.h>
+
+N/Users/andrew/Documents/SurfingLog/Classes/SurfingNavController.m
+c000000004D97978E0000000000000621
+t1301780366
+s1569
+i"SurfingNavController.h"
+
+N/Users/andrew/Documents/SurfingLog/Classes/Surfing_JournalAppDelegate.h
+c000000004DA2123A0000000000000278
+t1302467130
+s632
+i<UIKit/UIKit.h>
+
+N/Users/andrew/Documents/SurfingLog/Classes/Surfing_JournalAppDelegate.m
+c000000004DA20E6B0000000000000A60
+t1302466155
+s2656
+i"Surfing_JournalAppDelegate.h"
+i"SurfingNavController.h"
+
+N/Users/andrew/Documents/SurfingLog/DetailsView.xib
+c000000004DAB6A19000000000000959C
+t1303079449
+s38300
+
+N/Users/andrew/Documents/SurfingLog/FrontView.xib
+c000000004D97ED720000000000004CB4
+t1301802354
+s19636
+
+N/Users/andrew/Documents/SurfingLog/Images/question.png
+c000000004C3945280000000000000DBA
+t1278821672
+s3514
+
+N/Users/andrew/Documents/SurfingLog/Images/smiling.png
+c000000004C3201440000000000000E35
+t1278345540
+s3637
+
+N/Users/andrew/Documents/SurfingLog/MainWindow.xib
+c000000004D97FD6E0000000000007CB6
+t1301806446
+s31926
+
+N/Users/andrew/Documents/SurfingLog/ResultsView.xib
+c000000004DB114BE00000000000049FB
+t1303450814
+s18939
+
+N/Users/andrew/Documents/SurfingLog/SelectedLogView.xib
+c000000004DAD104B000000000000B678
+t1303187531
+s46712
+
+N/Users/andrew/Documents/SurfingLog/SelectionView.xib
+c000000004DB25910000000000000596A
+t1303533840
+s22890
+
+N/Users/andrew/Documents/SurfingLog/SpecificSearchView.xib
+c000000004DB25A4D0000000000009C4F
+t1303534157
+s40015
+
+N/Users/andrew/Documents/SurfingLog/Surfing_Journal_Prefix.pch
+c000000004D9791B800000000000000C7
+t1301778872
+s199
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app
+t1303581737
+s748
+
+N/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app.dSYM
+t1303581704
+s102
+
+N/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app/AboutView.nib
+t1303581698
+s1738
+
+N/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app/AddJournalView.nib
+t1303581699
+s3872
+
+N/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app/AllJournalsView.nib
+t1303581699
+s1897
+
+N/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app/DetailsView.nib
+t1303581699
+s5714
+
+N/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app/FrontView.nib
+t1303581698
+s3174
+
+N/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app/Info.plist
+t1303581697
+s758
+
+N/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app/MainWindow.nib
+t1303581698
+s4057
+
+N/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app/PkgInfo
+t1303581697
+s8
+
+N/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app/ResourceRules.plist
+t1303581697
+s485
+
+N/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app/ResultsView.nib
+t1303581700
+s1860
+
+N/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app/SelectedLogView.nib
+t1303581700
+s6756
+
+N/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app/SelectionView.nib
+t1303581698
+s3389
+
+N/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app/SpecificSearchView.nib
+t1303581700
+s6103
+
+N/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app/Surfing Journal
+t1303581704
+s249680
+
+N/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app/embedded.mobileprovision
+t1303581704
+s7348
+
+N/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app/question.png
+t1303581698
+s3726
+
+N/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app/smiling.png
+t1303581698
+s4131
+
+N/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app/surf1.sqlite3
+t1303581699
+s6144
+
+N/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/AboutViewController.o
+t1303581702
+s34528
+
+N/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/AddJournalViewController.o
+t1303581702
+s67548
+
+N/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/AllJournalsViewController.o
+t1303581702
+s72092
+
+N/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/DetailsViewController.o
+t1303581702
+s74632
+
+N/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/FrontViewController.o
+t1303581702
+s47576
+
+N/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/ResultsViewController.o
+t1303581702
+s55216
+
+N/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/SelectedLogViewController.o
+t1303581702
+s78712
+
+N/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/SelectionViewController.o
+t1303581702
+s57148
+
+N/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/Singleton.o
+t1303581702
+s17536
+
+N/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/SpecificSearchViewController.o
+t1303581702
+s73840
+
+N/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/Surfing Journal
+t1303581703
+s116508
+
+N/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/Surfing Journal.LinkFileList
+c000000004DB314010000000000000754
+t1303581697
+s1876
+
+N/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/SurfingNavController.o
+t1303581702
+s36236
+
+N/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/Surfing_JournalAppDelegate.o
+t1303581702
+s51500
+
+N/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/main.o
+t1303581701
+s6440
+
+N/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/AboutViewController.o
+t1303581702
+s34500
+
+N/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/AddJournalViewController.o
+t1303581703
+s67228
+
+N/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/AllJournalsViewController.o
+t1303581703
+s71620
+
+N/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/DetailsViewController.o
+t1303581703
+s73616
+
+N/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/FrontViewController.o
+t1303581703
+s47492
+
+N/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/ResultsViewController.o
+t1303581703
+s54856
+
+N/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/SelectedLogViewController.o
+t1303581703
+s77516
+
+N/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/SelectionViewController.o
+t1303581703
+s56976
+
+N/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/Singleton.o
+t1303581703
+s17240
+
+N/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/SpecificSearchViewController.o
+t1303581703
+s73000
+
+N/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/Surfing Journal
+t1303581704
+s112180
+
+N/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/Surfing Journal.LinkFileList
+c000000004DB314010000000000000754
+t1303581697
+s1876
+
+N/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/SurfingNavController.o
+t1303581702
+s36208
+
+N/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/Surfing_JournalAppDelegate.o
+t1303581702
+s51396
+
+N/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/main.o
+t1303581702
+s6424
+
+N/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal.xcent
+t1303581704
+s436
+
+N/Users/andrew/Documents/SurfingLog/main.m
+c000000004D9791B8000000000000016A
+t1301778872
+s362
+i<UIKit/UIKit.h>
+
+N/Users/andrew/Documents/SurfingLog/surf1.sqlite3
+c000000004DAD0AE50000000000001800
+t1303186149
+s6144
+
+N/Users/andrew/Library/MobileDevice/Provisioning Profiles/B6B45D8D-29DB-4917-A311-58FBE26A9CB4.mobileprovision
+c000000004D76EF460000000000001CB4
+t1299640134
+s7348
+
+N/var/folders/D+/D+RF4NkiEL8D6TmCllgolU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Surfing_Journal_Prefix-ctdmqrwipviglodfrddtmdvlgrus/Surfing_Journal_Prefix.pch.gch
+t1303581701
+s9831984
+
+N/var/folders/D+/D+RF4NkiEL8D6TmCllgolU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Surfing_Journal_Prefix-dwiahtwlwbsssrfharulolwvfioc/Surfing_Journal_Prefix.pch.gch
+t1303581701
+s10294832
+
+NSurfing_Journal-Info.plist
+c000000004D9BDAB60000000000000389
+t1302059702
+s905
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies325279479#325279479#0(0"0(0#1#0"8618571712#0"0#
+
+CCodeSign "/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app"
+s325279479.352915
+e325279485.655201
+r0
+xCodeSign
+x/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app
+o/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app: replacing existing signature
+o/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app: The operation was cancelled by the user.
+lSLF07#2@51"CodeSign "build/Debug-iphoneos/Surfing Journal.app"325279479#325279485#0(274"/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app: replacing existing signature/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app: The operation was cancelled by the user.Command /usr/bin/codesign failed with exit code 11(4@49"Command /usr/bin/codesign failed with exit code 1325279485#18446744073709551615#0#0(1@0"0(0#0#75"/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app8615744064#679"    cd /Users/andrew/Documents/SurfingLog    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: andrew newman (VCZS3EUZE3)" "--resource-rules=/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app/ResourceRules.plist" --entitlements "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal.xcent" "/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app"1#
+
+CCompileC "build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/AboutViewController.o" /Users/andrew/Documents/SurfingLog/Classes/AboutViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s325274502.001713
+e325274502.090406
+r1
+xCompileC
+xbuild/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/AboutViewController.o
+x/Users/andrew/Documents/SurfingLog/Classes/AboutViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/andrew/Documents/SurfingLog/Classes/AboutViewController.m325274502#325274502#0(0"0(0#0#64"/Users/andrew/Documents/SurfingLog/Classes/AboutViewController.m8606697792#1892"    cd /Users/andrew/Documents/SurfingLog    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-generated-files.hmap" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-own-target-headers.hmap" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-all-target-headers.hmap" -iquote "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-project-headers.hmap" -F/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos -I/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/include "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/DerivedSources/armv6" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/DerivedSources" -include /var/folders/D+/D+RF4NkiEL8D6TmCllgolU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Surfing_Journal_Prefix-ctdmqrwipviglodfrddtmdvlgrus/Surfing_Journal_Prefix.pch -c /Users/andrew/Documents/SurfingLog/Classes/AboutViewController.m -o "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/AboutViewController.o"0#
+
+CCompileC "build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/AddJournalViewController.o" /Users/andrew/Documents/SurfingLog/Classes/AddJournalViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s325274502.175802
+e325274502.330133
+r1
+xCompileC
+xbuild/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/AddJournalViewController.o
+x/Users/andrew/Documents/SurfingLog/Classes/AddJournalViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/andrew/Documents/SurfingLog/Classes/AddJournalViewController.m325274502#325274502#0(0"0(0#0#69"/Users/andrew/Documents/SurfingLog/Classes/AddJournalViewController.m8616760928#1902"    cd /Users/andrew/Documents/SurfingLog    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-generated-files.hmap" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-own-target-headers.hmap" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-all-target-headers.hmap" -iquote "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-project-headers.hmap" -F/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos -I/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/include "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/DerivedSources/armv6" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/DerivedSources" -include /var/folders/D+/D+RF4NkiEL8D6TmCllgolU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Surfing_Journal_Prefix-ctdmqrwipviglodfrddtmdvlgrus/Surfing_Journal_Prefix.pch -c /Users/andrew/Documents/SurfingLog/Classes/AddJournalViewController.m -o "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/AddJournalViewController.o"0#
+
+CCompileC "build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/AllJournalsViewController.o" /Users/andrew/Documents/SurfingLog/Classes/AllJournalsViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s325274502.256458
+e325274502.396369
+r1
+xCompileC
+xbuild/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/AllJournalsViewController.o
+x/Users/andrew/Documents/SurfingLog/Classes/AllJournalsViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/andrew/Documents/SurfingLog/Classes/AllJournalsViewController.m325274502#325274502#0(0"0(0#0#70"/Users/andrew/Documents/SurfingLog/Classes/AllJournalsViewController.m8615376608#1904"    cd /Users/andrew/Documents/SurfingLog    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-generated-files.hmap" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-own-target-headers.hmap" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-all-target-headers.hmap" -iquote "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-project-headers.hmap" -F/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos -I/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/include "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/DerivedSources/armv6" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/DerivedSources" -include /var/folders/D+/D+RF4NkiEL8D6TmCllgolU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Surfing_Journal_Prefix-ctdmqrwipviglodfrddtmdvlgrus/Surfing_Journal_Prefix.pch -c /Users/andrew/Documents/SurfingLog/Classes/AllJournalsViewController.m -o "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/AllJournalsViewController.o"0#
+
+CCompileC "build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/DetailsViewController.o" /Users/andrew/Documents/SurfingLog/Classes/DetailsViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s325274502.330240
+e325274502.543989
+r1
+xCompileC
+xbuild/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/DetailsViewController.o
+x/Users/andrew/Documents/SurfingLog/Classes/DetailsViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/andrew/Documents/SurfingLog/Classes/DetailsViewController.m325274502#325274502#0(0"0(0#0#66"/Users/andrew/Documents/SurfingLog/Classes/DetailsViewController.m8606151040#1896"    cd /Users/andrew/Documents/SurfingLog    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-generated-files.hmap" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-own-target-headers.hmap" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-all-target-headers.hmap" -iquote "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-project-headers.hmap" -F/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos -I/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/include "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/DerivedSources/armv6" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/DerivedSources" -include /var/folders/D+/D+RF4NkiEL8D6TmCllgolU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Surfing_Journal_Prefix-ctdmqrwipviglodfrddtmdvlgrus/Surfing_Journal_Prefix.pch -c /Users/andrew/Documents/SurfingLog/Classes/DetailsViewController.m -o "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/DetailsViewController.o"0#
+
+CCompileC "build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/FrontViewController.o" /Users/andrew/Documents/SurfingLog/Classes/FrontViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s325274502.090520
+e325274502.175694
+r1
+xCompileC
+xbuild/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/FrontViewController.o
+x/Users/andrew/Documents/SurfingLog/Classes/FrontViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/andrew/Documents/SurfingLog/Classes/FrontViewController.m325274502#325274502#0(0"0(0#0#64"/Users/andrew/Documents/SurfingLog/Classes/FrontViewController.m8600802240#1892"    cd /Users/andrew/Documents/SurfingLog    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-generated-files.hmap" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-own-target-headers.hmap" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-all-target-headers.hmap" -iquote "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-project-headers.hmap" -F/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos -I/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/include "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/DerivedSources/armv6" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/DerivedSources" -include /var/folders/D+/D+RF4NkiEL8D6TmCllgolU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Surfing_Journal_Prefix-ctdmqrwipviglodfrddtmdvlgrus/Surfing_Journal_Prefix.pch -c /Users/andrew/Documents/SurfingLog/Classes/FrontViewController.m -o "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/FrontViewController.o"0#
+
+CCompileC "build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/ResultsViewController.o" /Users/andrew/Documents/SurfingLog/Classes/ResultsViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s325274502.716306
+e325274502.886441
+r1
+xCompileC
+xbuild/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/ResultsViewController.o
+x/Users/andrew/Documents/SurfingLog/Classes/ResultsViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/andrew/Documents/SurfingLog/Classes/ResultsViewController.m325274502#325274502#0(0"0(0#0#66"/Users/andrew/Documents/SurfingLog/Classes/ResultsViewController.m8617336352#1896"    cd /Users/andrew/Documents/SurfingLog    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-generated-files.hmap" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-own-target-headers.hmap" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-all-target-headers.hmap" -iquote "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-project-headers.hmap" -F/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos -I/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/include "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/DerivedSources/armv6" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/DerivedSources" -include /var/folders/D+/D+RF4NkiEL8D6TmCllgolU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Surfing_Journal_Prefix-ctdmqrwipviglodfrddtmdvlgrus/Surfing_Journal_Prefix.pch -c /Users/andrew/Documents/SurfingLog/Classes/ResultsViewController.m -o "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/ResultsViewController.o"0#
+
+CCompileC "build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/SelectedLogViewController.o" /Users/andrew/Documents/SurfingLog/Classes/SelectedLogViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s325274502.489641
+e325274502.718685
+r1
+xCompileC
+xbuild/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/SelectedLogViewController.o
+x/Users/andrew/Documents/SurfingLog/Classes/SelectedLogViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/andrew/Documents/SurfingLog/Classes/SelectedLogViewController.m325274502#325274502#0(0"0(0#0#70"/Users/andrew/Documents/SurfingLog/Classes/SelectedLogViewController.m8616380000#1904"    cd /Users/andrew/Documents/SurfingLog    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-generated-files.hmap" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-own-target-headers.hmap" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-all-target-headers.hmap" -iquote "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-project-headers.hmap" -F/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos -I/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/include "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/DerivedSources/armv6" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/DerivedSources" -include /var/folders/D+/D+RF4NkiEL8D6TmCllgolU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Surfing_Journal_Prefix-ctdmqrwipviglodfrddtmdvlgrus/Surfing_Journal_Prefix.pch -c /Users/andrew/Documents/SurfingLog/Classes/SelectedLogViewController.m -o "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/SelectedLogViewController.o"0#
+
+CCompileC "build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/SelectionViewController.o" /Users/andrew/Documents/SurfingLog/Classes/SelectionViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s325274502.094902
+e325274502.256349
+r1
+xCompileC
+xbuild/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/SelectionViewController.o
+x/Users/andrew/Documents/SurfingLog/Classes/SelectionViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/andrew/Documents/SurfingLog/Classes/SelectionViewController.m325274502#325274502#0(0"0(0#0#68"/Users/andrew/Documents/SurfingLog/Classes/SelectionViewController.m8600009824#1900"    cd /Users/andrew/Documents/SurfingLog    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-generated-files.hmap" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-own-target-headers.hmap" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-all-target-headers.hmap" -iquote "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-project-headers.hmap" -F/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos -I/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/include "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/DerivedSources/armv6" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/DerivedSources" -include /var/folders/D+/D+RF4NkiEL8D6TmCllgolU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Surfing_Journal_Prefix-ctdmqrwipviglodfrddtmdvlgrus/Surfing_Journal_Prefix.pch -c /Users/andrew/Documents/SurfingLog/Classes/SelectionViewController.m -o "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/SelectionViewController.o"0#
+
+CCompileC "build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/Singleton.o" /Users/andrew/Documents/SurfingLog/Classes/Singleton.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s325274502.396474
+e325274502.489525
+r1
+xCompileC
+xbuild/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/Singleton.o
+x/Users/andrew/Documents/SurfingLog/Classes/Singleton.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/andrew/Documents/SurfingLog/Classes/Singleton.m325274502#325274502#0(0"0(0#0#54"/Users/andrew/Documents/SurfingLog/Classes/Singleton.m8617483520#1872"    cd /Users/andrew/Documents/SurfingLog    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-generated-files.hmap" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-own-target-headers.hmap" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-all-target-headers.hmap" -iquote "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-project-headers.hmap" -F/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos -I/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/include "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/DerivedSources/armv6" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/DerivedSources" -include /var/folders/D+/D+RF4NkiEL8D6TmCllgolU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Surfing_Journal_Prefix-ctdmqrwipviglodfrddtmdvlgrus/Surfing_Journal_Prefix.pch -c /Users/andrew/Documents/SurfingLog/Classes/Singleton.m -o "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/Singleton.o"0#
+
+CCompileC "build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/SpecificSearchViewController.o" /Users/andrew/Documents/SurfingLog/Classes/SpecificSearchViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s325274502.544104
+e325274502.716195
+r1
+xCompileC
+xbuild/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/SpecificSearchViewController.o
+x/Users/andrew/Documents/SurfingLog/Classes/SpecificSearchViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/andrew/Documents/SurfingLog/Classes/SpecificSearchViewController.m325274502#325274502#0(0"0(0#0#73"/Users/andrew/Documents/SurfingLog/Classes/SpecificSearchViewController.m8606403424#1910"    cd /Users/andrew/Documents/SurfingLog    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-generated-files.hmap" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-own-target-headers.hmap" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-all-target-headers.hmap" -iquote "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-project-headers.hmap" -F/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos -I/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/include "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/DerivedSources/armv6" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/DerivedSources" -include /var/folders/D+/D+RF4NkiEL8D6TmCllgolU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Surfing_Journal_Prefix-ctdmqrwipviglodfrddtmdvlgrus/Surfing_Journal_Prefix.pch -c /Users/andrew/Documents/SurfingLog/Classes/SpecificSearchViewController.m -o "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/SpecificSearchViewController.o"0#
+
+CCompileC "build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/SurfingNavController.o" /Users/andrew/Documents/SurfingLog/Classes/SurfingNavController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s325274502.022076
+e325274502.094801
+r1
+xCompileC
+xbuild/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/SurfingNavController.o
+x/Users/andrew/Documents/SurfingLog/Classes/SurfingNavController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/andrew/Documents/SurfingLog/Classes/SurfingNavController.m325274502#325274502#0(0"0(0#0#65"/Users/andrew/Documents/SurfingLog/Classes/SurfingNavController.m8604409568#1894"    cd /Users/andrew/Documents/SurfingLog    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-generated-files.hmap" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-own-target-headers.hmap" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-all-target-headers.hmap" -iquote "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-project-headers.hmap" -F/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos -I/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/include "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/DerivedSources/armv6" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/DerivedSources" -include /var/folders/D+/D+RF4NkiEL8D6TmCllgolU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Surfing_Journal_Prefix-ctdmqrwipviglodfrddtmdvlgrus/Surfing_Journal_Prefix.pch -c /Users/andrew/Documents/SurfingLog/Classes/SurfingNavController.m -o "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/SurfingNavController.o"0#
+
+CCompileC "build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/Surfing_JournalAppDelegate.o" /Users/andrew/Documents/SurfingLog/Classes/Surfing_JournalAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s325274501.904315
+e325274502.021968
+r1
+xCompileC
+xbuild/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/Surfing_JournalAppDelegate.o
+x/Users/andrew/Documents/SurfingLog/Classes/Surfing_JournalAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/andrew/Documents/SurfingLog/Classes/Surfing_JournalAppDelegate.m325274501#325274502#0(0"0(0#0#71"/Users/andrew/Documents/SurfingLog/Classes/Surfing_JournalAppDelegate.m8615927008#1906"    cd /Users/andrew/Documents/SurfingLog    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-generated-files.hmap" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-own-target-headers.hmap" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-all-target-headers.hmap" -iquote "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-project-headers.hmap" -F/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos -I/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/include "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/DerivedSources/armv6" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/DerivedSources" -include /var/folders/D+/D+RF4NkiEL8D6TmCllgolU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Surfing_Journal_Prefix-ctdmqrwipviglodfrddtmdvlgrus/Surfing_Journal_Prefix.pch -c /Users/andrew/Documents/SurfingLog/Classes/Surfing_JournalAppDelegate.m -o "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/Surfing_JournalAppDelegate.o"0#
+
+CCompileC "build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/main.o" /Users/andrew/Documents/SurfingLog/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s325274501.902821
+e325274502.001610
+r1
+xCompileC
+xbuild/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/main.o
+x/Users/andrew/Documents/SurfingLog/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@49"Compile /Users/andrew/Documents/SurfingLog/main.m325274501#325274502#0(0"0(0#0#41"/Users/andrew/Documents/SurfingLog/main.m8616506016#1854"    cd /Users/andrew/Documents/SurfingLog    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-generated-files.hmap" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-own-target-headers.hmap" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-all-target-headers.hmap" -iquote "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-project-headers.hmap" -F/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos -I/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/include "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/DerivedSources/armv6" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/DerivedSources" -include /var/folders/D+/D+RF4NkiEL8D6TmCllgolU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Surfing_Journal_Prefix-ctdmqrwipviglodfrddtmdvlgrus/Surfing_Journal_Prefix.pch -c /Users/andrew/Documents/SurfingLog/main.m -o "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/main.o"0#
+
+CCompileC "build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/AboutViewController.o" /Users/andrew/Documents/SurfingLog/Classes/AboutViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s325274502.858274
+e325274502.925146
+r1
+xCompileC
+xbuild/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/AboutViewController.o
+x/Users/andrew/Documents/SurfingLog/Classes/AboutViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/andrew/Documents/SurfingLog/Classes/AboutViewController.m325274502#325274502#0(0"0(0#0#64"/Users/andrew/Documents/SurfingLog/Classes/AboutViewController.m8616781952#1892"    cd /Users/andrew/Documents/SurfingLog    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-generated-files.hmap" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-own-target-headers.hmap" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-all-target-headers.hmap" -iquote "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-project-headers.hmap" -F/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos -I/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/include "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/DerivedSources/armv7" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/DerivedSources" -include /var/folders/D+/D+RF4NkiEL8D6TmCllgolU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Surfing_Journal_Prefix-dwiahtwlwbsssrfharulolwvfioc/Surfing_Journal_Prefix.pch -c /Users/andrew/Documents/SurfingLog/Classes/AboutViewController.m -o "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/AboutViewController.o"0#
+
+CCompileC "build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/AddJournalViewController.o" /Users/andrew/Documents/SurfingLog/Classes/AddJournalViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s325274503.184412
+e325274503.301555
+r1
+xCompileC
+xbuild/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/AddJournalViewController.o
+x/Users/andrew/Documents/SurfingLog/Classes/AddJournalViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/andrew/Documents/SurfingLog/Classes/AddJournalViewController.m325274503#325274503#0(0"0(0#0#69"/Users/andrew/Documents/SurfingLog/Classes/AddJournalViewController.m8617283424#1902"    cd /Users/andrew/Documents/SurfingLog    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-generated-files.hmap" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-own-target-headers.hmap" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-all-target-headers.hmap" -iquote "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-project-headers.hmap" -F/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos -I/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/include "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/DerivedSources/armv7" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/DerivedSources" -include /var/folders/D+/D+RF4NkiEL8D6TmCllgolU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Surfing_Journal_Prefix-dwiahtwlwbsssrfharulolwvfioc/Surfing_Journal_Prefix.pch -c /Users/andrew/Documents/SurfingLog/Classes/AddJournalViewController.m -o "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/AddJournalViewController.o"0#
+
+CCompileC "build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/AllJournalsViewController.o" /Users/andrew/Documents/SurfingLog/Classes/AllJournalsViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s325274503.301729
+e325274503.458935
+r1
+xCompileC
+xbuild/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/AllJournalsViewController.o
+x/Users/andrew/Documents/SurfingLog/Classes/AllJournalsViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/andrew/Documents/SurfingLog/Classes/AllJournalsViewController.m325274503#325274503#0(0"0(0#0#70"/Users/andrew/Documents/SurfingLog/Classes/AllJournalsViewController.m8606432640#1904"    cd /Users/andrew/Documents/SurfingLog    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-generated-files.hmap" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-own-target-headers.hmap" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-all-target-headers.hmap" -iquote "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-project-headers.hmap" -F/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos -I/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/include "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/DerivedSources/armv7" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/DerivedSources" -include /var/folders/D+/D+RF4NkiEL8D6TmCllgolU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Surfing_Journal_Prefix-dwiahtwlwbsssrfharulolwvfioc/Surfing_Journal_Prefix.pch -c /Users/andrew/Documents/SurfingLog/Classes/AllJournalsViewController.m -o "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/AllJournalsViewController.o"0#
+
+CCompileC "build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/DetailsViewController.o" /Users/andrew/Documents/SurfingLog/Classes/DetailsViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s325274503.349801
+e325274503.525630
+r1
+xCompileC
+xbuild/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/DetailsViewController.o
+x/Users/andrew/Documents/SurfingLog/Classes/DetailsViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/andrew/Documents/SurfingLog/Classes/DetailsViewController.m325274503#325274503#0(0"0(0#0#66"/Users/andrew/Documents/SurfingLog/Classes/DetailsViewController.m8617113536#1896"    cd /Users/andrew/Documents/SurfingLog    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-generated-files.hmap" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-own-target-headers.hmap" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-all-target-headers.hmap" -iquote "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-project-headers.hmap" -F/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos -I/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/include "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/DerivedSources/armv7" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/DerivedSources" -include /var/folders/D+/D+RF4NkiEL8D6TmCllgolU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Surfing_Journal_Prefix-dwiahtwlwbsssrfharulolwvfioc/Surfing_Journal_Prefix.pch -c /Users/andrew/Documents/SurfingLog/Classes/DetailsViewController.m -o "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/DetailsViewController.o"0#
+
+CCompileC "build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/FrontViewController.o" /Users/andrew/Documents/SurfingLog/Classes/FrontViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s325274503.002320
+e325274503.090792
+r1
+xCompileC
+xbuild/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/FrontViewController.o
+x/Users/andrew/Documents/SurfingLog/Classes/FrontViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/andrew/Documents/SurfingLog/Classes/FrontViewController.m325274503#325274503#0(0"0(0#0#64"/Users/andrew/Documents/SurfingLog/Classes/FrontViewController.m8616649920#1892"    cd /Users/andrew/Documents/SurfingLog    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-generated-files.hmap" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-own-target-headers.hmap" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-all-target-headers.hmap" -iquote "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-project-headers.hmap" -F/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos -I/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/include "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/DerivedSources/armv7" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/DerivedSources" -include /var/folders/D+/D+RF4NkiEL8D6TmCllgolU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Surfing_Journal_Prefix-dwiahtwlwbsssrfharulolwvfioc/Surfing_Journal_Prefix.pch -c /Users/andrew/Documents/SurfingLog/Classes/FrontViewController.m -o "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/FrontViewController.o"0#
+
+CCompileC "build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/ResultsViewController.o" /Users/andrew/Documents/SurfingLog/Classes/ResultsViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s325274503.700192
+e325274503.813822
+r1
+xCompileC
+xbuild/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/ResultsViewController.o
+x/Users/andrew/Documents/SurfingLog/Classes/ResultsViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/andrew/Documents/SurfingLog/Classes/ResultsViewController.m325274503#325274503#0(0"0(0#0#66"/Users/andrew/Documents/SurfingLog/Classes/ResultsViewController.m8617303904#1896"    cd /Users/andrew/Documents/SurfingLog    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-generated-files.hmap" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-own-target-headers.hmap" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-all-target-headers.hmap" -iquote "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-project-headers.hmap" -F/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos -I/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/include "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/DerivedSources/armv7" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/DerivedSources" -include /var/folders/D+/D+RF4NkiEL8D6TmCllgolU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Surfing_Journal_Prefix-dwiahtwlwbsssrfharulolwvfioc/Surfing_Journal_Prefix.pch -c /Users/andrew/Documents/SurfingLog/Classes/ResultsViewController.m -o "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/ResultsViewController.o"0#
+
+CCompileC "build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/SelectedLogViewController.o" /Users/andrew/Documents/SurfingLog/Classes/SelectedLogViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s325274503.525740
+e325274503.757831
+r1
+xCompileC
+xbuild/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/SelectedLogViewController.o
+x/Users/andrew/Documents/SurfingLog/Classes/SelectedLogViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/andrew/Documents/SurfingLog/Classes/SelectedLogViewController.m325274503#325274503#0(0"0(0#0#70"/Users/andrew/Documents/SurfingLog/Classes/SelectedLogViewController.m8617302208#1904"    cd /Users/andrew/Documents/SurfingLog    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-generated-files.hmap" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-own-target-headers.hmap" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-all-target-headers.hmap" -iquote "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-project-headers.hmap" -F/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos -I/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/include "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/DerivedSources/armv7" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/DerivedSources" -include /var/folders/D+/D+RF4NkiEL8D6TmCllgolU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Surfing_Journal_Prefix-dwiahtwlwbsssrfharulolwvfioc/Surfing_Journal_Prefix.pch -c /Users/andrew/Documents/SurfingLog/Classes/SelectedLogViewController.m -o "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/SelectedLogViewController.o"0#
+
+CCompileC "build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/SelectionViewController.o" /Users/andrew/Documents/SurfingLog/Classes/SelectionViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s325274503.091015
+e325274503.184307
+r1
+xCompileC
+xbuild/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/SelectionViewController.o
+x/Users/andrew/Documents/SurfingLog/Classes/SelectionViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/andrew/Documents/SurfingLog/Classes/SelectionViewController.m325274503#325274503#0(0"0(0#0#68"/Users/andrew/Documents/SurfingLog/Classes/SelectionViewController.m8616973600#1900"    cd /Users/andrew/Documents/SurfingLog    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-generated-files.hmap" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-own-target-headers.hmap" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-all-target-headers.hmap" -iquote "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-project-headers.hmap" -F/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos -I/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/include "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/DerivedSources/armv7" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/DerivedSources" -include /var/folders/D+/D+RF4NkiEL8D6TmCllgolU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Surfing_Journal_Prefix-dwiahtwlwbsssrfharulolwvfioc/Surfing_Journal_Prefix.pch -c /Users/andrew/Documents/SurfingLog/Classes/SelectionViewController.m -o "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/SelectionViewController.o"0#
+
+CCompileC "build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/Singleton.o" /Users/andrew/Documents/SurfingLog/Classes/Singleton.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s325274503.459048
+e325274503.556212
+r1
+xCompileC
+xbuild/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/Singleton.o
+x/Users/andrew/Documents/SurfingLog/Classes/Singleton.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/andrew/Documents/SurfingLog/Classes/Singleton.m325274503#325274503#0(0"0(0#0#54"/Users/andrew/Documents/SurfingLog/Classes/Singleton.m8616237728#1872"    cd /Users/andrew/Documents/SurfingLog    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-generated-files.hmap" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-own-target-headers.hmap" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-all-target-headers.hmap" -iquote "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-project-headers.hmap" -F/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos -I/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/include "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/DerivedSources/armv7" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/DerivedSources" -include /var/folders/D+/D+RF4NkiEL8D6TmCllgolU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Surfing_Journal_Prefix-dwiahtwlwbsssrfharulolwvfioc/Surfing_Journal_Prefix.pch -c /Users/andrew/Documents/SurfingLog/Classes/Singleton.m -o "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/Singleton.o"0#
+
+CCompileC "build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/SpecificSearchViewController.o" /Users/andrew/Documents/SurfingLog/Classes/SpecificSearchViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s325274503.556319
+e325274503.700082
+r1
+xCompileC
+xbuild/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/SpecificSearchViewController.o
+x/Users/andrew/Documents/SurfingLog/Classes/SpecificSearchViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/andrew/Documents/SurfingLog/Classes/SpecificSearchViewController.m325274503#325274503#0(0"0(0#0#73"/Users/andrew/Documents/SurfingLog/Classes/SpecificSearchViewController.m8616740320#1910"    cd /Users/andrew/Documents/SurfingLog    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-generated-files.hmap" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-own-target-headers.hmap" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-all-target-headers.hmap" -iquote "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-project-headers.hmap" -F/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos -I/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/include "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/DerivedSources/armv7" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/DerivedSources" -include /var/folders/D+/D+RF4NkiEL8D6TmCllgolU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Surfing_Journal_Prefix-dwiahtwlwbsssrfharulolwvfioc/Surfing_Journal_Prefix.pch -c /Users/andrew/Documents/SurfingLog/Classes/SpecificSearchViewController.m -o "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/SpecificSearchViewController.o"0#
+
+CCompileC "build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/SurfingNavController.o" /Users/andrew/Documents/SurfingLog/Classes/SurfingNavController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s325274502.925255
+e325274503.002205
+r1
+xCompileC
+xbuild/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/SurfingNavController.o
+x/Users/andrew/Documents/SurfingLog/Classes/SurfingNavController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/andrew/Documents/SurfingLog/Classes/SurfingNavController.m325274502#325274503#0(0"0(0#0#65"/Users/andrew/Documents/SurfingLog/Classes/SurfingNavController.m8600744288#1894"    cd /Users/andrew/Documents/SurfingLog    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-generated-files.hmap" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-own-target-headers.hmap" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-all-target-headers.hmap" -iquote "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-project-headers.hmap" -F/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos -I/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/include "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/DerivedSources/armv7" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/DerivedSources" -include /var/folders/D+/D+RF4NkiEL8D6TmCllgolU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Surfing_Journal_Prefix-dwiahtwlwbsssrfharulolwvfioc/Surfing_Journal_Prefix.pch -c /Users/andrew/Documents/SurfingLog/Classes/SurfingNavController.m -o "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/SurfingNavController.o"0#
+
+CCompileC "build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/Surfing_JournalAppDelegate.o" /Users/andrew/Documents/SurfingLog/Classes/Surfing_JournalAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s325274502.776052
+e325274502.858169
+r1
+xCompileC
+xbuild/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/Surfing_JournalAppDelegate.o
+x/Users/andrew/Documents/SurfingLog/Classes/Surfing_JournalAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/andrew/Documents/SurfingLog/Classes/Surfing_JournalAppDelegate.m325274502#325274502#0(0"0(0#0#71"/Users/andrew/Documents/SurfingLog/Classes/Surfing_JournalAppDelegate.m8603735744#1906"    cd /Users/andrew/Documents/SurfingLog    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-generated-files.hmap" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-own-target-headers.hmap" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-all-target-headers.hmap" -iquote "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-project-headers.hmap" -F/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos -I/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/include "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/DerivedSources/armv7" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/DerivedSources" -include /var/folders/D+/D+RF4NkiEL8D6TmCllgolU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Surfing_Journal_Prefix-dwiahtwlwbsssrfharulolwvfioc/Surfing_Journal_Prefix.pch -c /Users/andrew/Documents/SurfingLog/Classes/Surfing_JournalAppDelegate.m -o "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/Surfing_JournalAppDelegate.o"0#
+
+CCompileC "build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/main.o" /Users/andrew/Documents/SurfingLog/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s325274502.718786
+e325274502.775768
+r1
+xCompileC
+xbuild/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/main.o
+x/Users/andrew/Documents/SurfingLog/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@49"Compile /Users/andrew/Documents/SurfingLog/main.m325274502#325274502#0(0"0(0#0#41"/Users/andrew/Documents/SurfingLog/main.m8616111328#1854"    cd /Users/andrew/Documents/SurfingLog    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-generated-files.hmap" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-own-target-headers.hmap" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-all-target-headers.hmap" -iquote "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-project-headers.hmap" -F/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos -I/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/include "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/DerivedSources/armv7" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/DerivedSources" -include /var/folders/D+/D+RF4NkiEL8D6TmCllgolU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Surfing_Journal_Prefix-dwiahtwlwbsssrfharulolwvfioc/Surfing_Journal_Prefix.pch -c /Users/andrew/Documents/SurfingLog/main.m -o "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/main.o"0#
+
+CCompileXIB /Users/andrew/Documents/SurfingLog/AboutView.xib
+s325274498.044526
+e325274498.459554
+r1
+xCompileXIB
+x/Users/andrew/Documents/SurfingLog/AboutView.xib
+lSLF07#2@24"CompileXIB AboutView.xib325274498#325274498#0(0"0(0#0#48"/Users/andrew/Documents/SurfingLog/AboutView.xib8617753344#538"    cd /Users/andrew/Documents/SurfingLog    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app/AboutView.nib" /Users/andrew/Documents/SurfingLog/AboutView.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCompileXIB /Users/andrew/Documents/SurfingLog/AddJournalView.xib
+s325274498.957641
+e325274499.505787
+r1
+xCompileXIB
+x/Users/andrew/Documents/SurfingLog/AddJournalView.xib
+lSLF07#2@29"CompileXIB AddJournalView.xib325274498#325274499#0(0"0(0#0#53"/Users/andrew/Documents/SurfingLog/AddJournalView.xib8617575904#548"    cd /Users/andrew/Documents/SurfingLog    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app/AddJournalView.nib" /Users/andrew/Documents/SurfingLog/AddJournalView.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCompileXIB /Users/andrew/Documents/SurfingLog/AllJournalsView.xib
+s325274498.982183
+e325274499.398616
+r1
+xCompileXIB
+x/Users/andrew/Documents/SurfingLog/AllJournalsView.xib
+lSLF07#2@30"CompileXIB AllJournalsView.xib325274498#325274499#0(0"0(0#0#54"/Users/andrew/Documents/SurfingLog/AllJournalsView.xib8616797440#550"    cd /Users/andrew/Documents/SurfingLog    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app/AllJournalsView.nib" /Users/andrew/Documents/SurfingLog/AllJournalsView.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCompileXIB /Users/andrew/Documents/SurfingLog/DetailsView.xib
+s325274499.398790
+e325274499.940568
+r1
+xCompileXIB
+x/Users/andrew/Documents/SurfingLog/DetailsView.xib
+lSLF07#2@26"CompileXIB DetailsView.xib325274499#325274499#0(0"0(0#0#50"/Users/andrew/Documents/SurfingLog/DetailsView.xib8617537376#542"    cd /Users/andrew/Documents/SurfingLog    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app/DetailsView.nib" /Users/andrew/Documents/SurfingLog/DetailsView.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCompileXIB /Users/andrew/Documents/SurfingLog/FrontView.xib
+s325274498.419583
+e325274498.982089
+r1
+xCompileXIB
+x/Users/andrew/Documents/SurfingLog/FrontView.xib
+lSLF07#2@24"CompileXIB FrontView.xib325274498#325274498#0(0"0(0#0#48"/Users/andrew/Documents/SurfingLog/FrontView.xib8616956544#538"    cd /Users/andrew/Documents/SurfingLog    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app/FrontView.nib" /Users/andrew/Documents/SurfingLog/FrontView.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCompileXIB /Users/andrew/Documents/SurfingLog/MainWindow.xib
+s325274497.901033
+e325274498.419495
+r1
+xCompileXIB
+x/Users/andrew/Documents/SurfingLog/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib325274497#325274498#0(0"0(0#0#49"/Users/andrew/Documents/SurfingLog/MainWindow.xib30962698416423024#540"    cd /Users/andrew/Documents/SurfingLog    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app/MainWindow.nib" /Users/andrew/Documents/SurfingLog/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCompileXIB /Users/andrew/Documents/SurfingLog/ResultsView.xib
+s325274500.120428
+e325274500.534367
+r1
+xCompileXIB
+x/Users/andrew/Documents/SurfingLog/ResultsView.xib
+lSLF07#2@26"CompileXIB ResultsView.xib325274500#325274500#0(0"0(0#0#50"/Users/andrew/Documents/SurfingLog/ResultsView.xib8606567296#542"    cd /Users/andrew/Documents/SurfingLog    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app/ResultsView.nib" /Users/andrew/Documents/SurfingLog/ResultsView.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCompileXIB /Users/andrew/Documents/SurfingLog/SelectedLogView.xib
+s325274499.506691
+e325274500.120342
+r1
+xCompileXIB
+x/Users/andrew/Documents/SurfingLog/SelectedLogView.xib
+lSLF07#2@30"CompileXIB SelectedLogView.xib325274499#325274500#0(0"0(0#0#54"/Users/andrew/Documents/SurfingLog/SelectedLogView.xib8616990432#550"    cd /Users/andrew/Documents/SurfingLog    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app/SelectedLogView.nib" /Users/andrew/Documents/SurfingLog/SelectedLogView.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCompileXIB /Users/andrew/Documents/SurfingLog/SelectionView.xib
+s325274498.459922
+e325274498.957552
+r1
+xCompileXIB
+x/Users/andrew/Documents/SurfingLog/SelectionView.xib
+lSLF07#2@28"CompileXIB SelectionView.xib325274498#325274498#0(0"0(0#0#52"/Users/andrew/Documents/SurfingLog/SelectionView.xib8615515840#546"    cd /Users/andrew/Documents/SurfingLog    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app/SelectionView.nib" /Users/andrew/Documents/SurfingLog/SelectionView.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCompileXIB /Users/andrew/Documents/SurfingLog/SpecificSearchView.xib
+s325274499.940658
+e325274500.533791
+r1
+xCompileXIB
+x/Users/andrew/Documents/SurfingLog/SpecificSearchView.xib
+lSLF07#2@33"CompileXIB SpecificSearchView.xib325274499#325274500#0(0"0(0#0#57"/Users/andrew/Documents/SurfingLog/SpecificSearchView.xib8617622304#556"    cd /Users/andrew/Documents/SurfingLog    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app/SpecificSearchView.nib" /Users/andrew/Documents/SurfingLog/SpecificSearchView.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCopyPNGFile "/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app/question.png" Images/question.png
+s325274497.902894
+e325274498.004485
+r1
+xCopyPNGFile
+x/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app/question.png
+xImages/question.png
+lSLF07#2@87"CopyPNGFile "build/Debug-iphoneos/Surfing Journal.app/question.png" Images/question.png325274497#325274498#0(0"0(0#0#54"/Users/andrew/Documents/SurfingLog/Images/question.png8617001024#569"    cd /Users/andrew/Documents/SurfingLog    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/andrew/Documents/SurfingLog/Images/question.png "/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app/question.png"0#
+
+CCopyPNGFile "/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app/smiling.png" Images/smiling.png
+s325274498.004579
+e325274498.044440
+r1
+xCopyPNGFile
+x/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app/smiling.png
+xImages/smiling.png
+lSLF07#2@85"CopyPNGFile "build/Debug-iphoneos/Surfing Journal.app/smiling.png" Images/smiling.png325274498#325274498#0(0"0(0#0#53"/Users/andrew/Documents/SurfingLog/Images/smiling.png8616949120#567"    cd /Users/andrew/Documents/SurfingLog    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/andrew/Documents/SurfingLog/Images/smiling.png "/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app/smiling.png"0#
+
+CCpResource "build/Debug-iphoneos/Surfing Journal.app/ResourceRules.plist" /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+s325274497.857817
+e325274497.900893
+r1
+xCpResource
+xbuild/Debug-iphoneos/Surfing Journal.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist325274497#325274497#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist8615589952#482"    cd /Users/andrew/Documents/SurfingLog    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist "/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app"0#
+
+CCpResource "build/Debug-iphoneos/Surfing Journal.app/surf1.sqlite3" surf1.sqlite3
+s325274499.505886
+e325274499.513783
+r1
+xCpResource
+xbuild/Debug-iphoneos/Surfing Journal.app/surf1.sqlite3
+xsurf1.sqlite3
+lSLF07#2@18"Copy surf1.sqlite3325274499#325274499#0(0"0(0#0#48"/Users/andrew/Documents/SurfingLog/surf1.sqlite38617176992#441"    cd /Users/andrew/Documents/SurfingLog    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/andrew/Documents/SurfingLog/surf1.sqlite3 "/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app"0#
+
+CCreateUniversalBinary "/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app/Surfing Journal" normal "armv6 armv7"
+s325274504.020294
+e325274504.070213
+r1
+xCreateUniversalBinary
+x/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app/Surfing Journal
+xnormal
+xarmv6 armv7
+lSLF07#2@101"CreateUniversalBinary "build/Debug-iphoneos/Surfing Journal.app/Surfing Journal" normal "armv6 armv7"325274504#325274504#0(0"0(0#0#46"/Users/andrew/Documents/SurfingLog/armv6 armv78616774208#572"    cd /Users/andrew/Documents/SurfingLog    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/Surfing Journal" "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/Surfing Journal" -output "/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app/Surfing Journal"0#
+
+CGenerateDSYMFile "/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app.dSYM" "/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app/Surfing Journal"
+s325274504.070351
+e325274504.175380
+r1
+xGenerateDSYMFile
+x/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app.dSYM
+x/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app/Surfing Journal
+lSLF07#2@123"GenerateDSYMFile "build/Debug-iphoneos/Surfing Journal.app.dSYM" "build/Debug-iphoneos/Surfing Journal.app/Surfing Journal"325274504#325274504#0(0"0(0#0#91"/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app/Surfing Journal8616326944#378"    cd /Users/andrew/Documents/SurfingLog    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app/Surfing Journal" -o "/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app.dSYM"0#
+
+CLd "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/Surfing Journal" normal armv6
+s325274502.886540
+e325274503.349607
+r1
+xLd
+x/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/Surfing Journal
+xnormal
+xarmv6
+lSLF07#2@141"Link /Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/Surfing Journal325274502#325274503#0(0"0(0#0#0"8606342464#901"    cd /Users/andrew/Documents/SurfingLog    setenv IPHONEOS_DEPLOYMENT_TARGET 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -L/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos -F/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos -filelist "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/Surfing Journal.LinkFileList" -dead_strip -miphoneos-version-min=4.1 -framework Foundation -framework UIKit -framework CoreGraphics -lsqlite3 -o "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv6/Surfing Journal"0#
+
+CLd "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/Surfing Journal" normal armv7
+s325274503.813923
+e325274504.020187
+r1
+xLd
+x/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/Surfing Journal
+xnormal
+xarmv7
+lSLF07#2@141"Link /Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/Surfing Journal325274503#325274504#0(0"0(0#0#0"8616338048#901"    cd /Users/andrew/Documents/SurfingLog    setenv IPHONEOS_DEPLOYMENT_TARGET 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -L/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos -F/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos -filelist "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/Surfing Journal.LinkFileList" -dead_strip -miphoneos-version-min=4.1 -framework Foundation -framework UIKit -framework CoreGraphics -lsqlite3 -o "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Objects-normal/armv7/Surfing Journal"0#
+
+CProcessInfoPlistFile "/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app/Info.plist" Surfing_Journal-Info.plist
+s325274497.859864
+e325274497.885143
+r1
+xProcessInfoPlistFile
+x/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app/Info.plist
+xSurfing_Journal-Info.plist
+lSLF07#2@34"Process Surfing_Journal-Info.plist325274497#325274497#0(0"0(0#0#61"/Users/andrew/Documents/SurfingLog/Surfing_Journal-Info.plist8615407392#584"    cd /Users/andrew/Documents/SurfingLog    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Surfing_Journal-Info.plist -genpkginfo "/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app/PkgInfo" -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile "/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app/ResourceRules.plist" -o "/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app/Info.plist"0#
+
+CProcessPCH /var/folders/D+/D+RF4NkiEL8D6TmCllgolU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Surfing_Journal_Prefix-ctdmqrwipviglodfrddtmdvlgrus/Surfing_Journal_Prefix.pch.gch Surfing_Journal_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s325274500.534460
+e325274501.902539
+r1
+xProcessPCH
+x/var/folders/D+/D+RF4NkiEL8D6TmCllgolU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Surfing_Journal_Prefix-ctdmqrwipviglodfrddtmdvlgrus/Surfing_Journal_Prefix.pch.gch
+xSurfing_Journal_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile Surfing_Journal_Prefix.pch325274500#325274501#0(0"0(0#0#61"/Users/andrew/Documents/SurfingLog/Surfing_Journal_Prefix.pch8605710816#1746"    cd /Users/andrew/Documents/SurfingLog    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-generated-files.hmap" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-own-target-headers.hmap" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-all-target-headers.hmap" -iquote "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-project-headers.hmap" -F/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos -I/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/include "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/DerivedSources/armv6" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/DerivedSources" -c /Users/andrew/Documents/SurfingLog/Surfing_Journal_Prefix.pch -o /var/folders/D+/D+RF4NkiEL8D6TmCllgolU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Surfing_Journal_Prefix-ctdmqrwipviglodfrddtmdvlgrus/Surfing_Journal_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/D+/D+RF4NkiEL8D6TmCllgolU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Surfing_Journal_Prefix-dwiahtwlwbsssrfharulolwvfioc/Surfing_Journal_Prefix.pch.gch Surfing_Journal_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s325274500.535390
+e325274501.816633
+r1
+xProcessPCH
+x/var/folders/D+/D+RF4NkiEL8D6TmCllgolU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Surfing_Journal_Prefix-dwiahtwlwbsssrfharulolwvfioc/Surfing_Journal_Prefix.pch.gch
+xSurfing_Journal_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile Surfing_Journal_Prefix.pch325274500#325274501#0(0"0(0#0#61"/Users/andrew/Documents/SurfingLog/Surfing_Journal_Prefix.pch8604421536#1746"    cd /Users/andrew/Documents/SurfingLog    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-generated-files.hmap" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-own-target-headers.hmap" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-all-target-headers.hmap" -iquote "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal-project-headers.hmap" -F/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos -I/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/include "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/DerivedSources/armv7" "-I/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/DerivedSources" -c /Users/andrew/Documents/SurfingLog/Surfing_Journal_Prefix.pch -o /var/folders/D+/D+RF4NkiEL8D6TmCllgolU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Surfing_Journal_Prefix-dwiahtwlwbsssrfharulolwvfioc/Surfing_Journal_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/andrew/Library/MobileDevice/Provisioning Profiles/B6B45D8D-29DB-4917-A311-58FBE26A9CB4.mobileprovision" "/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app/embedded.mobileprovision"
+s325274504.175482
+e325274504.176999
+r1
+xProcessProductPackaging
+x/Users/andrew/Library/MobileDevice/Provisioning Profiles/B6B45D8D-29DB-4917-A311-58FBE26A9CB4.mobileprovision
+x/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app/embedded.mobileprovision
+lSLF07#2@203"ProcessProductPackaging "/Users/andrew/Library/MobileDevice/Provisioning Profiles/B6B45D8D-29DB-4917-A311-58FBE26A9CB4.mobileprovision" "build/Debug-iphoneos/Surfing Journal.app/embedded.mobileprovision"325274504#325274504#0(0"0(0#0#100"/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app/embedded.mobileprovision8616317472#426"    cd /Users/andrew/Documents/SurfingLog    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/andrew/Library/MobileDevice/Provisioning Profiles/B6B45D8D-29DB-4917-A311-58FBE26A9CB4.mobileprovision" -o "/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app/embedded.mobileprovision"0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal.xcent"
+s325274504.236069
+e325274504.269082
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist
+x/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal.xcent
+lSLF07#2@201"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist "build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal.xcent"325274504#325274504#0(0"0(0#0#121"/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal.xcent8617041728#450"    cd /Users/andrew/Documents/SurfingLog    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist -entitlements -format xml -o "/Users/andrew/Documents/SurfingLog/build/Surfing Journal.build/Debug-iphoneos/Surfing Journal.build/Surfing Journal.xcent"0#
+
+CTouch "/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app"
+s325274504.177070
+e325274504.235940
+r1
+xTouch
+x/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app
+lSLF07#2@81"Touch /Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app325274504#325274504#0(0"0(0#0#0"8606562208#266"    cd /Users/andrew/Documents/SurfingLog    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/andrew/Documents/SurfingLog/build/Debug-iphoneos/Surfing Journal.app"0#
+
